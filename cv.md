@@ -1,17 +1,17 @@
-**Klim Kaluzhny**
+#**Klim Kaluzhny**
 ******
-**Contact information**
+#**Contact information**
 E-mail: kkaliuzhny@gmail.com
 ******
-**Briefly About Myself**
+#**Briefly About Myself**
 I'm a sophomore of the Belarusian National Technical University. I'm studing at the faculty of the information technology software. I want to acquire deep knowleadge and understanding of a front-end development, so i have enrolled at this course.
-**Skills**
+#**Skills**
 C++
 C#
 Pyhton
 The english language(C1 level)
 *******
-Code example
+#Code example
 ```
 void Sort(int* num, int size)
 {
