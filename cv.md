@@ -15,13 +15,13 @@ I'm a sophomore of the Belarusian National Technical University. I'm studing at 
 
 **Skills**
 ===============
-*C++
+* C++
 
 
-*C#
+* C#
 
 
-*Pyhton
+* Pyhton
 
 
 *******
@@ -43,15 +43,17 @@ void Sort(int* num, int size)
 
 **Courses**
 ===========
-*Introduction to Programming (C++)
+* Introduction to Programming (C++)
 
 
-*Introduction to Programming (Python)
+* Introduction to Programming (Python)
 
 **Languages**
 ===================
-*The english language(C1 level)
-*Belarussian(native)
+* The english language(C1 level)
 
 
-*Russian(native)
+* Belarussian(native)
+
+
+* Russian(native)
