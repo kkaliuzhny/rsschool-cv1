@@ -1,7 +1,26 @@
-Klim Kaluzhny
+**Klim Kaluzhny**
 ******
-Contact information:
+**Contact information**
 E-mail: kkaliuzhny@gmail.com
 ******
-Briefly About Myself:
-I'm a sophomore of the Belarusian National Technical University. I'm studing at the faculty of the information technology software.to be continued...
+**Briefly About Myself**
+I'm a sophomore of the Belarusian National Technical University. I'm studing at the faculty of the information technology software. I want to acquire deep knowleadge and understanding of a front-end development, so i have enrolled at this course.
+**Skills**
+C++
+C#
+Pyhton
+The english language(C1 level)
+*******
+Code example
+```
+void Sort(int* num, int size)
+{
+	for (int i = 1; i < size; i++)
+	{
+		for (int j = i; j > 0 && num[j - 1] > num[j]; j--)
+		{
+			swap(num[j - 1], num[j]);
+		}
+	}
+}
+```
