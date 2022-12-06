@@ -6,7 +6,7 @@
 E-mail: kkaliuzhny@gmail.com
 
 
-Discord:Klim Kaluzhny(@kkaliuzhny)
+Discord: Klim Kaluzhny(@kkaliuzhny)
 ******
 **Briefly About Myself**
 =======================
@@ -24,7 +24,6 @@ I'm a sophomore of the Belarusian National Technical University. I'm studing at 
 *Pyhton
 
 
-*The english language(C1 level)
 *******
 **Code example**
 ===================
@@ -48,3 +47,11 @@ void Sort(int* num, int size)
 
 
 *Introduction to Programming (Python)
+
+**Languages**
+===================
+*The english language(C1 level)
+*Belarussian(native)
+
+
+*Russian(native)
